@@ -1,0 +1,105 @@
+title: DrivePlandoOST
+originalAuthor: Svenchu
+description: Music for using in conjunction with the Drive Plando mod.
+dependencies: 
+assets:
+- name: End_Piano.win32.scd
+  method: copy
+  source:
+  - name: End_Piano.win32.scd
+- name: music054.win32.scd
+  method: copy
+  source:
+  - name: music054.win32.scd
+- name: music055.win32.scd
+  method: copy
+  source:
+  - name: music055.win32.scd
+- name: music067.win32.scd
+  method: copy
+  source:
+  - name: music067.win32.scd
+- name: music081.win32.scd
+  method: copy
+  source:
+  - name: music081.win32.scd
+- name: music086.win32.scd
+  method: copy
+  source:
+  - name: music086.win32.scd
+- name: music087.win32.scd
+  method: copy
+  source:
+  - name: music087.win32.scd
+- name: music101.win32.scd
+  method: copy
+  source:
+  - name: music101.win32.scd
+- name: music104.win32.scd
+  method: copy
+  source:
+  - name: music104.win32.scd
+- name: music117.win32.scd
+  method: copy
+  source:
+  - name: music117.win32.scd
+- name: music135.win32.scd
+  method: copy
+  source:
+  - name: music135.win32.scd
+- name: music136.win32.scd
+  method: copy
+  source:
+  - name: music136.win32.scd
+- name: music144.win32.scd
+  method: copy
+  source:
+  - name: music144.win32.scd
+- name: music145.win32.scd
+  method: copy
+  source:
+  - name: music145.win32.scd
+- name: music151.win32.scd
+  method: copy
+  source:
+  - name: music151.win32.scd
+- name: music153.win32.scd
+  method: copy
+  source:
+  - name: music153.win32.scd
+- name: music164.win32.scd
+  method: copy
+  source:
+  - name: music164.win32.scd
+- name: music517.win32.scd
+  method: copy
+  source:
+  - name: music517.win32.scd
+- name: music601.win32.scd
+  method: copy
+  source:
+  - name: music601.win32.scd
+- name: music602.win32.scd
+  method: copy
+  source:
+  - name: music602.win32.scd
+- name: music610.win32.scd
+  method: copy
+  source:
+  - name: music610.win32.scd
+- name: music614.win32.scd
+  method: copy
+  source:
+  - name: music614.win32.scd
+- name: music701.win32.scd
+  method: copy
+  source:
+  - name: music701.win32.scd
+- name: music703.win32.scd
+  method: copy
+  source:
+  - name: music703.win32.scd
+- name: music704.win32.scd
+  method: copy
+  source:
+  - name: music704.win32.scd
