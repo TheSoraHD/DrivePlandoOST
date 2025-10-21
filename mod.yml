@@ -3,10 +3,6 @@ originalAuthor: Svenchu
 description: Music for using in conjunction with the Drive Plando mod.
 dependencies: 
 assets:
-- name: bgm/music086.win32.scd
-  method: copy
-  source:
-  - name: bgm/music086.win32.scd
 - name: bgm/music054.win32.scd
   method: copy
   source:
@@ -23,6 +19,10 @@ assets:
   method: copy
   source:
   - name: bgm/music081.win32.scd
+- name: bgm/music086.win32.scd
+  method: copy
+  source:
+  - name: bgm/music086.win32.scd
 - name: bgm/music087.win32.scd
   method: copy
   source:
@@ -39,6 +39,14 @@ assets:
   method: copy
   source:
   - name: bgm/music117.win32.scd
+- name: bgm/music127.win32.scd
+  method: copy
+  source:
+  - name: bgm/music127.win32.scd
+- name: bgm/music128.win32.scd
+  method: copy
+  source:
+  - name: bgm/music128.win32.scd
 - name: bgm/music135.win32.scd
   method: copy
   source:
@@ -47,6 +55,10 @@ assets:
   method: copy
   source:
   - name: bgm/music136.win32.scd
+- name: bgm/music143.win32.scd
+  method: copy
+  source:
+  - name: bgm/music143.win32.scd
 - name: bgm/music144.win32.scd
   method: copy
   source:
@@ -79,10 +91,26 @@ assets:
   method: copy
   source:
   - name: bgm/music602.win32.scd
+- name: bgm/music603.win32.scd
+  method: copy
+  source:
+  - name: bgm/music603.win32.scd
+- name: bgm/music607.win32.scd
+  method: copy
+  source:
+  - name: bgm/music607.win32.scd
+- name: bgm/music609.win32.scd
+  method: copy
+  source:
+  - name: bgm/music609.win32.scd
 - name: bgm/music610.win32.scd
   method: copy
   source:
   - name: bgm/music610.win32.scd
+- name: bgm/music611.win32.scd
+  method: copy
+  source:
+  - name: bgm/music611.win32.scd
 - name: bgm/music614.win32.scd
   method: copy
   source:
@@ -103,3 +131,7 @@ assets:
   method: copy
   source:
   - name: vagstream/End_Piano.win32.scd
+- name: vagstream/Title.win32.scd
+  method: copy
+  source:
+  - name: vagstream/Title.win32.scd
