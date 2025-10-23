@@ -183,6 +183,18 @@ assets:
   method: copy
   source:
   - name: bgm/music603.win32.scd
+- name: bgm/music604.win32.scd
+  method: copy
+  source:
+  - name: bgm/music604.win32.scd
+- name: bgm/music605.win32.scd
+  method: copy
+  source:
+  - name: bgm/music605.win32.scd
+- name: bgm/music606.win32.scd
+  method: copy
+  source:
+  - name: bgm/music606.win32.scd
 - name: bgm/music607.win32.scd
   method: copy
   source:
@@ -199,6 +211,10 @@ assets:
   method: copy
   source:
   - name: bgm/music611.win32.scd
+- name: bgm/music613.win32.scd
+  method: copy
+  source:
+  - name: bgm/music613.win32.scd
 - name: bgm/music614.win32.scd
   method: copy
   source:
@@ -219,6 +235,10 @@ assets:
   method: copy
   source:
   - name: bgm/music625.win32.scd
+- name: bgm/music700.win32.scd
+  method: copy
+  source:
+  - name: bgm/music700.win32.scd
 - name: bgm/music701.win32.scd
   method: copy
   source:
