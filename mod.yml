@@ -3,6 +3,18 @@ originalAuthor: Svenchu
 description: Music for using in conjunction with the Drive Plando mod.
 dependencies: 
 assets:
+- name: bgm/music050.win32.scd
+  method: copy
+  source:
+  - name: bgm/music050.win32.scd
+- name: bgm/music052.win32.scd
+  method: copy
+  source:
+  - name: bgm/music052.win32.scd
+- name: bgm/music053.win32.scd
+  method: copy
+  source:
+  - name: bgm/music053.win32.scd
 - name: bgm/music054.win32.scd
   method: copy
   source:
@@ -11,14 +23,38 @@ assets:
   method: copy
   source:
   - name: bgm/music055.win32.scd
+- name: bgm/music061.win32.scd
+  method: copy
+  source:
+  - name: bgm/music061.win32.scd
+- name: bgm/music062.win32.scd
+  method: copy
+  source:
+  - name: bgm/music062.win32.scd
+- name: bgm/music063.win32.scd
+  method: copy
+  source:
+  - name: bgm/music063.win32.scd
 - name: bgm/music067.win32.scd
   method: copy
   source:
   - name: bgm/music067.win32.scd
+- name: bgm/music068.win32.scd
+  method: copy
+  source:
+  - name: bgm/music068.win32.scd
+- name: bgm/music069.win32.scd
+  method: copy
+  source:
+  - name: bgm/music069.win32.scd
 - name: bgm/music081.win32.scd
   method: copy
   source:
   - name: bgm/music081.win32.scd
+- name: bgm/music085.win32.scd
+  method: copy
+  source:
+  - name: bgm/music085.win32.scd
 - name: bgm/music086.win32.scd
   method: copy
   source:
@@ -27,14 +63,50 @@ assets:
   method: copy
   source:
   - name: bgm/music087.win32.scd
+- name: bgm/music100.win32.scd
+  method: copy
+  source:
+  - name: bgm/music100.win32.scd
 - name: bgm/music101.win32.scd
   method: copy
   source:
   - name: bgm/music101.win32.scd
+- name: bgm/music102.win32.scd
+  method: copy
+  source:
+  - name: bgm/music102.win32.scd
 - name: bgm/music104.win32.scd
   method: copy
   source:
   - name: bgm/music104.win32.scd
+- name: bgm/music110.win32.scd
+  method: copy
+  source:
+  - name: bgm/music110.win32.scd
+- name: bgm/music111.win32.scd
+  method: copy
+  source:
+  - name: bgm/music111.win32.scd
+- name: bgm/music112.win32.scd
+  method: copy
+  source:
+  - name: bgm/music112.win32.scd
+- name: bgm/music113.win32.scd
+  method: copy
+  source:
+  - name: bgm/music113.win32.scd
+- name: bgm/music114.win32.scd
+  method: copy
+  source:
+  - name: bgm/music114.win32.scd
+- name: bgm/music115.win32.scd
+  method: copy
+  source:
+  - name: bgm/music115.win32.scd
+- name: bgm/music116.win32.scd
+  method: copy
+  source:
+  - name: bgm/music116.win32.scd
 - name: bgm/music117.win32.scd
   method: copy
   source:
@@ -47,6 +119,14 @@ assets:
   method: copy
   source:
   - name: bgm/music128.win32.scd
+- name: bgm/music131.win32.scd
+  method: copy
+  source:
+  - name: bgm/music131.win32.scd
+- name: bgm/music134.win32.scd
+  method: copy
+  source:
+  - name: bgm/music134.win32.scd
 - name: bgm/music135.win32.scd
   method: copy
   source:
@@ -71,6 +151,10 @@ assets:
   method: copy
   source:
   - name: bgm/music151.win32.scd
+- name: bgm/music152.win32.scd
+  method: copy
+  source:
+  - name: bgm/music152.win32.scd
 - name: bgm/music153.win32.scd
   method: copy
   source:
@@ -83,6 +167,10 @@ assets:
   method: copy
   source:
   - name: bgm/music517.win32.scd
+- name: bgm/music600.win32.scd
+  method: copy
+  source:
+  - name: bgm/music600.win32.scd
 - name: bgm/music601.win32.scd
   method: copy
   source:
@@ -115,6 +203,22 @@ assets:
   method: copy
   source:
   - name: bgm/music614.win32.scd
+- name: bgm/music620.win32.scd
+  method: copy
+  source:
+  - name: bgm/music620.win32.scd
+- name: bgm/music621.win32.scd
+  method: copy
+  source:
+  - name: bgm/music621.win32.scd
+- name: bgm/music623.win32.scd
+  method: copy
+  source:
+  - name: bgm/music623.win32.scd
+- name: bgm/music625.win32.scd
+  method: copy
+  source:
+  - name: bgm/music625.win32.scd
 - name: bgm/music701.win32.scd
   method: copy
   source:
