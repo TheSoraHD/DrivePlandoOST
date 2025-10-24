@@ -27,6 +27,10 @@ assets:
   method: copy
   source:
   - name: bgm/music055.win32.scd
+- name: bgm/music059.win32.scd
+  method: copy
+  source:
+  - name: bgm/music059.win32.scd
 - name: bgm/music061.win32.scd
   method: copy
   source:
@@ -39,6 +43,10 @@ assets:
   method: copy
   source:
   - name: bgm/music063.win32.scd
+- name: bgm/music066.win32.scd
+  method: copy
+  source:
+  - name: bgm/music066.win32.scd
 - name: bgm/music067.win32.scd
   method: copy
   source:
@@ -167,6 +175,14 @@ assets:
   method: copy
   source:
   - name: bgm/music153.win32.scd
+- name: bgm/music154.win32.scd
+  method: copy
+  source:
+  - name: bgm/music154.win32.scd
+- name: bgm/music155.win32.scd
+  method: copy
+  source:
+  - name: bgm/music155.win32.scd
 - name: bgm/music158.win32.scd
   method: copy
   source:
@@ -179,6 +195,10 @@ assets:
   method: copy
   source:
   - name: bgm/music517.win32.scd
+- name: bgm/music530.win32.scd
+  method: copy
+  source:
+  - name: bgm/music530.win32.scd
 - name: bgm/music600.win32.scd
   method: copy
   source:
@@ -263,6 +283,10 @@ assets:
   method: copy
   source:
   - name: bgm/music704.win32.scd
+- name: bgm/music705.win32.scd
+  method: copy
+  source:
+  - name: bgm/music705.win32.scd
 - name: vagstream/End_Piano.win32.scd
   method: copy
   source:
