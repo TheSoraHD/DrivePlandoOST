@@ -95,10 +95,6 @@ assets:
   method: copy
   source:
   - name: bgm/music112.win32.scd
-- name: bgm/music113.win32.scd
-  method: copy
-  source:
-  - name: bgm/music113.win32.scd
 - name: bgm/music114.win32.scd
   method: copy
   source:
